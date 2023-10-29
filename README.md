@@ -1,2 +1,2 @@
 # neuralNetworksLab
-PC lab exercises for the Neural Networks lab in ECE NTUA 
+PC lab exercises for the Neural Networks lab @ntua 
